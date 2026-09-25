@@ -6,3 +6,6 @@ Python
 Java 
 C++
 HTML
+# Projects
+Automated Smart Lighting with Intensity Control
+An Internet of Things (IoT) hardware project engineered using Arduino components. Developed collaboratively with Pushkar Vasanth Hayagreev, Likhith Gowda P, and Rushik N N, this system automates smart lighting and dynamically controls light intensity based on environmental conditions.
